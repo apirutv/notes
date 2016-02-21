@@ -13,6 +13,7 @@ git clone git@github.com:apirutv/hello-world
 git remote -v # show the origin url
 git remote show [origin]
 git fetch [remote name]
+git commint -m 'message'
 git push
 git status 
 git status -s
